@@ -43,4 +43,23 @@ subtitle: "GitHub username: `r git_user`"
 <!-- Write your Markdown below this line -->
 
 
+# How the Course Works
+
+
+
+# Course Goals
+
+
+
+# Including Code
+
+
+
+## Running R code in a code chunk
+
+
+
+## Displaying Graphs
+
+
 
