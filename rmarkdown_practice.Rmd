@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: R Markdown practice"
-author: "Yabsera Tefera"
+author: "FirstName LastName"
 date: "`r Sys.Date()`"
 documentclass: article
 geometry: margin=1in
@@ -41,7 +41,6 @@ subtitle: "GitHub username: `r git_user`"
 ---
 
 <!-- Write your Markdown below this line -->
-
 
 
 
