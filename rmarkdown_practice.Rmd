@@ -45,21 +45,37 @@ subtitle: "GitHub username: `r git_user`"
 
 # How the Course Works
 
-
+The weekly interactive tutorials must be completed by the start of each week. Then each weekly
+assignment will be due at the end of the week
 
 # Course Goals
+By the end of the course, students will be able to:
 
+* Use [GitHub](https://github.com/) for creating a reproducible research document.
 
+  * My GitHub username is: *write_your_github_username_here_in_italic_text*.
+  
+* Obtain, clean, transform, and visualize a dataset using the R programming language.
+
+* Interpret and predict dataset trends using statistical inference and models.
+
+* Critically examine and interpret statistical claims reported in mass media.
 
 # Including Code
 
-
-
 ## Running R code in a code chunk
 
+```{r}
+x <- 2 + 4
+x + 9
+```
 
+The output of first line of code is not printed out because it is assigned to a variable instead.
+The second line of output is printed out instead, but this means that the calculated value has not
+been saved for future use.
 
 ## Displaying Graphs
 
-
-
+```{r}
+plot(x = iris$Sepal.Length, y = iris$Sepal.Width)
+```
